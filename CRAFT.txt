@@ -1,0 +1,6 @@
+@article{chen2017CRAFT, 
+author={Chen, Ying-Cong, and Zhu, Xiatian and Zheng, Wei-Shi and Lai, Jian-Huang}, 
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+title={Person Re-Identification by Camera Correlation Aware Feature Augmentation}, 
+year={2017}
+}
